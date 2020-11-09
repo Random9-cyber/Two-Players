@@ -1,0 +1,30 @@
+@media screen and (min-width: 300px){
+    img{
+        width: 70%;
+        height: 70%;
+        margin-top: 7%;
+        margin-left: 0;
+    }
+    img#sub{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    margin-top: 1%;
+    margin-left: -9%;
+    }
+}
+@media screen and (min-width: 1000px){
+   img{
+       width: 500px;
+       height: 500px;
+       margin-left: 400px;
+   } 
+   img#sub{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    margin-top: 1%;
+    margin-left: 15%;
+}
+   
+}
